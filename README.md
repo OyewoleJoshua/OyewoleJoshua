@@ -5,8 +5,10 @@ What i do 😉
 
 I work across all areas of data analysis, from data cleaning and visualization to predictive modeling and business intelligence.  
 I leverage data to optimize performance, identify trends, and create value across various domains. My work spans:  
- **Data Exploration & Processing**
--**Statistical Analysis & Machine Learning**  -**Data Visualization & Reporting**  **Business & Financial Analytics**  
+-**Data Exploration & Processing**
+-**Statistical Analysis & Machine Learning**  
+-**Data Visualization & Reporting**
+-**Business & Financial Analytics**  
 
 I'm currently working on Inflation and it's economic effects on Household consumption expenditure in Nigera.- 👯 I’m looking to collaborate with other data analysts on this project.
 
