@@ -10,11 +10,9 @@ I leverage data to optimize performance, identify trends, and create value acros
 -**Data Visualization & Reporting**
 -**Business & Financial Analytics**  
 
-I'm currently working on Inflation and it's economic effects on Household consumption expenditure in Nigera.- 👯 I’m looking to collaborate with other data analysts on this project.
-
 Connect with me 📬 
 [LinkedIn](https://www.linkedin.com/in/joshuaoluwafemioyewole)
 
 
 - ⚡ Fun fact: Data is everywhere and i love making sense of it.
--->
+
