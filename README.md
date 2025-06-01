@@ -20,6 +20,7 @@ Turned scattered wins into repeatable growth strategies.
 
 Let’s connect: If you need someone to decode user behavior, boost retention, and support product-led growth with data, reach out.
 [LinkedIn](https://www.linkedin.com/in/joshuaoluwafemioyewole)
+
 Oyewjoshua@gmail.com | DMs open
 
 - ⚡ Fun fact: Data is everywhere and i love making sense of it.
