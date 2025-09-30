@@ -59,4 +59,4 @@ I also share insights on:
 If you’re building in **fintech (early to growth stage)** and need clear, engaging, and useful documentation, I’d love to help.  
 
 📧 **Oyewjoshua@gmail.com**  
-💼 **[Connect with me on LinkedIn](https://linkedin.com/in/your-link-here)**
+💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/joshuaoluwafemioyewole)**
